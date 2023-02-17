@@ -1,16 +1,11 @@
-# flutter_textfield_slash_commands
+# Get users id from flutter_mentions package.
 
-A new Flutter project.
+This project creates a command for flutter in the flutter_mentions package that gives the ids of the users added to the textfield.
 
-## Getting Started
+Example:
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img height="600" src="https://i.imgflip.com/7bi88k.jpg"  />
+</div>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###
